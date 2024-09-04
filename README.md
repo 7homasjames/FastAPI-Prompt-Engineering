@@ -5,3 +5,4 @@ This repository contains a Python application that leverages the different kinds
 
 
 ![image](https://github.com/user-attachments/assets/20d72302-bdcb-404a-98d6-0dc5ae21ad65)
+![image](https://github.com/user-attachments/assets/fbd12ffa-ee9f-4950-b03b-7412ff03bea3)
